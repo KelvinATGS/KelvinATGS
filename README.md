@@ -19,7 +19,7 @@ You can reach me via <a href="mailto:kmusodza@glotmnansimpson.com">Email</a>.
 | **Languages**      | **Frameworks/Libraries**      | **Tools**                | **Interests**                        |
 |--------------------|-------------------------------|--------------------------|--------------------------------------|
 | Java               | Spring                        | Docker                   | Backend Development                 |
-| Python             | Django                        | Redis                    | Full Stack development              |
+| Python             | Django                        | Redis                    | Full Stack Development              |
 | C/C++              | TailNext                      | Celery                   | Machine Learning                    |
 | Node.js            | TensorFlow                    | RabbitMQ                 | Deep Learning                       |
 | JavaScript         | React                         | Maven                    | Computer Vision                     |
